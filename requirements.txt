@@ -1,0 +1,10 @@
+beautifulsoup4==4.6.0
+lxml==4.1.1
+numpy==1.14.1
+pandas==0.22.0
+PyQt5==5.10.1
+python-dateutil==2.6.1
+requests==2.18.4
+scraperwiki==0.5.1
+lxml==4.1.1
+cssselect==1.0.3
